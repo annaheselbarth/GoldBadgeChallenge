@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace ChallengeFourOutingsLibrary
 {
-    class OutingRepo
+    public class OutingRepo
     {
     }
 }
