@@ -13,11 +13,11 @@ namespace ChallengeFourOutingsLibrary
 
     public class Outing
     {
-        public EventType typeOfEvent { get; set; }
-        public int numberOfPeople { get; set; }
-        public DateTime dateOfEvent { get; set; }
-        public decimal costPerPerson { get; set; }
-        public decimal costOfEvent { get; set; }
+        public EventType TypeOfEvent { get; set; }
+        public int NumberOfPeople { get; set; }
+        public DateTime DateOfEvent { get; set; }
+        public decimal CostPerPerson { get; set; }
+        public decimal CostOfEvent { get; set; }
 
         public Outing()
         {
