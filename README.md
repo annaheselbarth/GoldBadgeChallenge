@@ -1,9 +1,9 @@
 # GoldBadgeChallenge
 
-Gold Badge Challengs is a collection of currently 3 different console challenges with up to 8 added. Each console challenge includes:
-* Class Library containing different classes and repositories
+Gold Badge Challenge is a collection of currently 3 different console challenges with up to 8 added. Each console challenge includes:
+* Class Library containing different classes and repositories.
 * Unit Test containing method tests.
-* Console app with program and program UI
+* Console app with program and program UI.
 
 ## Table of Contents
 
@@ -34,7 +34,7 @@ The second console is for a claim department. The claim's agent can use this sof
 
 ### Badges
 
-The third console is Badges. This app maintains a dictionary of details about employee badge information. The staff member will be able to create a new badge ID which will give access to certain doors. They will be able to create a new badge, update doors on an existing badge, delete all doors from an existing badge, and see a list witll all badge numbers.
+The third console is Badges. This app maintains a dictionary of details about employee badge information. The staff member will be able to create a new badge ID which will give access to certain doors. They will be able to create a new badge, update doors on an existing badge, delete all doors from an existing badge, and see a list with all badge numbers.
 
 ## Author
 
